@@ -1,0 +1,79 @@
+
+=========================================================
+| Msm Download Tool V2.0.71 for eMMC/UFS
+|                                     			 
+| Build Data:  Jan  5 2022 
+| Build Time:  11:31:35 
+=========================================================
+
+
+[PID:6120] [TID:2932] [2023-05-04 16:42:20::0276] Start log...
+[PID:6120] [TID:2932] [2023-05-04 16:42:20::0480] mac:$MAC_ADDR$
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0183] Path:C:\MsmDownloadTool-Rcsm\target\RMX3300domestic_11_A.16_2022012714110118.ofp
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0479] Project:21631, Compatible:
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0479] Strorage type: UFS
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Mode:After-sales
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Filter Metadata is FALSE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Binding Metadata is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Download Config is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Download Config Signed is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Support Reset is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Cloud Flag is FALSE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Multi Project is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Erase Oder is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] WO3 is FALSE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] UFS is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] SV is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] NV is FALSE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] VC is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] OCDT is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Root is FALSE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Secsmt is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] Support FC is TRUE
+[PID:6120] [TID:2932] [2023-05-04 16:42:41::0488] -------------------
+[PID:6120] [TID:4948] [2023-05-04 16:44:33::0765] Device Arrival: \\?\USB#VID_05C6&PID_9008#...
+[PID:6120] [TID:4948] [2023-05-04 16:44:33::0804] Friendly Name: Qualcomm HS-USB QDLoader 9008 (COM6)
+[PID:6120] [TID:2932] [2023-05-04 16:44:36::0932] Click Button Start, mode:After-sale, project:21631
+[PID:6120] [TID:2932] [2023-05-04 16:44:36::0935] IsPackImage is true
+[PID:6120] [TID:2932] [2023-05-04 16:44:36::0935] FactoryLine is false
+[PID:6120] [TID:2932] [2023-05-04 16:44:36::0936] BootOnly is false
+[PID:6120] [TID:2932] [2023-05-04 16:44:36::0937] DisableBootWizard is false
+[PID:6120] [TID:6888] [2023-05-04 16:44:36::0940] [COM6] Download start
+[PID:6120] [TID:6888] [2023-05-04 16:44:36::0940] [COM6] Set download status ,current status: COM_DOWNLOAD.
+[PID:6120] [TID:6888] [2023-05-04 16:44:36::0941] Pack path is C:\MsmDownloadTool-Rcsm\target\ProjectConfig.ini
+[PID:6120] [TID:6888] [2023-05-04 16:44:36::0943] Real project is 21631
+[PID:6120] [TID:6888] [2023-05-04 16:44:36::0944] [COM6] Open the serial device
+[PID:6120] [TID:6888] [2023-05-04 16:44:36::0945] [COM6] Open the serial device retry = 1
+[PID:6120] [TID:6888] [2023-05-04 16:44:36::0985] [COM6] Set Sahara file ok��sahara file: prog_firehose_ddr.elf.
+[PID:6120] [TID:6888] [2023-05-04 16:44:36::0999] [COM6] Attempting to send a Sahara message for communication
+[PID:6120] [TID:6888] [2023-05-04 16:44:37::0002] [COM6] Downloading Firehose protocol file via Sahara protocol
+[PID:6120] [TID:6888] [2023-05-04 16:45:01::0051] [COM6] Sahara communication succeeded
+[PID:6120] [TID:6888] [2023-05-04 16:45:05::0382] [COM6] filename=ChainedTableOfDigests_21631_persist_no_userdata_no
+[PID:6120] [TID:6888] [2023-05-04 16:45:07::0322] [COM6] Trying to handshake via Firehose communication
+[PID:6120] [TID:6888] [2023-05-04 16:45:08::0460] [COM6] Configure the settings of Firehose communication data transmission
+[PID:6120] [TID:6888] [2023-05-04 16:45:08::0554] [COM6] Get sign data
+[PID:6120] [TID:6888] [2023-05-04 16:45:08::0749] [COM6] ID:$CHIP_ID$, B:enable
+[PID:6120] [TID:6888] [2023-05-04 16:45:08::0750] [COM6] old_sw_name_sign:858c1b7102920d05377edcd7fe833bedfb94582b2b4b7fdad83c8c11287fa6cc, new_sw_name_sign:2cc3e36a2272d2ea3ddd9c66bcd140caa3da9d276d6c407d6bae31925bcf4a25
+[PID:6120] [TID:6888] [2023-05-04 16:45:08::0752] [COM6] Verify Data
+[PID:6120] [TID:6888] [2023-05-04 16:45:11::0021] [COM6] Verify pass
+[PID:6120] [TID:6888] [2023-05-04 16:45:12::0647] [COM6] Get sign data from server error,errMsg = WCSM communication failed (HTTP 404)
+[PID:6120] [TID:6888] [2023-05-04 16:45:15::0843] [COM6] Upload download result. chip id: $CHIP_ID$, result: -1, project: 21631
+[PID:6120] [TID:6888] [2023-05-04 16:45:16::0051] [COM6] Upload download result failed.
+[PID:6120] [TID:6888] [2023-05-04 16:45:16::0052] [COM6] Check the models and software
+[PID:6120] [TID:6888] [2023-05-04 16:45:16::0117] [COM6] Start erase
+[PID:6120] [TID:6888] [2023-05-04 16:45:16::0117] [COM6] Erasing the partition BackupGPT
+[PID:6120] [TID:6888] [2023-05-04 16:45:16::0200] [COM6] Erasing the partition PrimaryGPT/LUN1
+[PID:6120] [TID:6888] [2023-05-04 16:45:16::0472] [COM6] Erasing the partition BackupGPT
+[PID:6120] [TID:6888] [2023-05-04 16:45:16::0562] [COM6] Erasing the partition PrimaryGPT/LUN5
+[PID:6120] [TID:6888] [2023-05-04 16:45:16::0815] [COM6] Erasing the partition BackupGPT
+[PID:6120] [TID:6888] [2023-05-04 16:45:16::0897] [COM6] Erasing the partition PrimaryGPT/LUN4
+[PID:6120] [TID:6888] [2023-05-04 16:45:17::0164] [COM6] Erasing the partition BackupGPT
+[PID:6120] [TID:6888] [2023-05-04 16:45:17::0245] [COM6] Erasing the partition PrimaryGPT/LUN2
+[PID:6120] [TID:6888] [2023-05-04 16:45:17::0524] [COM6] Erasing the partition BackupGPT
+[PID:6120] [TID:6888] [2023-05-04 16:45:17::0611] [COM6] Erasing the partition PrimaryGPT/LUN0
+[PID:6120] [TID:6888] [2023-05-04 16:45:17::0878] [COM6] Download OCDT
+[PID:6120] [TID:6888] [2023-05-04 16:45:17::0879] [COM6] brand is oplus, cdtdownloadstatus is 0, ufs = 1
+[PID:6120] [TID:6888] [2023-05-04 16:45:17::0883] [COM6] Downloading ddr, zeros_5sectors.bin...
+[PID:6120] [TID:6888] [2023-05-04 16:45:17::0885] [COM6] file: C:\MsmDownloadTool-Rcsm\target\RMX3300domestic_11_A.16_2022012714110118.ofp
+[PID:6120] [TID:6888] [2023-05-04 16:45:18::0293] [COM6] Downloading engineering_cdt_a, engineering_cdt.img...
+...
